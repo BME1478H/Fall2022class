@@ -7,6 +7,10 @@ assignees: ''
 
 ---
 
+Delete this text after you have read through it and are ready to post your question.
+This template will appear every time you open a new issue,
+so you don't need to memorize it.
+
 In this class,
 we're using GitHub issues as the forum for asking and responding to questions.
 Knowing how to use GitHub is often required when collaborating on bigger projects,
