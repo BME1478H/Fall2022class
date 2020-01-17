@@ -40,8 +40,9 @@ and the included information will ensure that you get help as quickly as possibl
    so include both the code or command you tried to run and the error message.
       - Text is preferred over a screenshot since it is easy to copy and paste,
         which facilitates reproducing your problem.
-      - Code should be surrounded by backticks for clarity,
+      - Inline code should be surrounded by backticks for clarity,
         which will be `formatted like this` on GitHub.
+        Longer blocks of code with multiple lines should be surrounded by triple backticks.
         Please see [this link] for how to format comments on GitHub in general using the markdown syntax.
 4. Include which operating system you are using
    and which version of the troubling program your are on,
