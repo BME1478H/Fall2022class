@@ -39,7 +39,8 @@ and the included information will ensure that you get help as quickly as possibl
    explain what you expected to happen,
    and what went wrong.
    It is often critical that the person helping you can reproduce the problem,
-   so include both the code or command you tried to run and the error message.
+   so include both the code or command you tried to run and the error message
+   as described in this guide on how to create a [Minimal Reproducible Example].
       - Text is preferred over a screenshot since it is easy to copy and paste,
         which facilitates reproducing your problem.
       - Inline code should be surrounded by backticks for clarity,
@@ -68,3 +69,4 @@ please send an email to the TA email address instead.
 
 [this link]: https://guides.github.com/features/mastering-markdown/
 [this StackOverflow post]: https://stackoverflow.com/help/how-to-ask
+[Minimal Reproducible Example]: https://stackoverflow.com/help/minimal-reproducible-example
