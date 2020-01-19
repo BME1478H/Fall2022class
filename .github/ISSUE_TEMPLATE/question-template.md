@@ -9,7 +9,7 @@ assignees: ''
 
 Click the "Preview" tab above to view the rendered version of this issue template.
 
-Delete this text after you have read through it and are ready to post your question.
+Delete this text after you have read through it and are replace it with your question.
 This template will appear every time you open a new issue,
 so you don't need to memorize it.
 
