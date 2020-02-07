@@ -16,7 +16,6 @@ def main():
 
 
 def stats_inflammation(filename,action):
-        # print('running ', script, 'for ', filename)
         data = numpy.loadtxt(filename, delimiter=',')
 
         if action == '--min':
