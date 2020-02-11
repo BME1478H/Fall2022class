@@ -37,3 +37,14 @@ def main():
 
 if __name__ == "__main__": # **(e, 1 mark)...**
     main()
+
+
+
+# Git Commands
+# all lines should start with #
+# question a
+# git add Assignment/model_growth.py
+# question b
+# git commit -m "Updated model_growth.py with answers"
+# question c
+# git push
