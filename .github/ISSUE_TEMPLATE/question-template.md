@@ -9,9 +9,9 @@ assignees: ''
 
 Click the "Preview" tab above to view the rendered version of this issue template.
 
-Delete this text after you have read through it and are replace it with your question.
+**Delete this text after you have read through it and are replace it with your question.
 This template will appear every time you open a new issue,
-so you don't need to memorize it.
+so you don't need to memorize it.**
 
 In this class,
 we're using GitHub issues as the forum for asking and responding to questions.
@@ -66,6 +66,10 @@ As a final note,
 remember that this GitHub issue list is public,
 so if you have a sensitive question,
 please send an email to the TA email address instead.
+
+**Delete this text after you have read through it and are replace it with your question.
+This template will appear every time you open a new issue,
+so you don't need to memorize it.**
 
 [this link]: https://guides.github.com/features/mastering-markdown/
 [this StackOverflow post]: https://stackoverflow.com/help/how-to-ask
