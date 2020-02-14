@@ -1,6 +1,6 @@
 import sys
 import numpy
-
+#updating the synced repo with a comment
 
 def main():
     script = sys.argv[0]
