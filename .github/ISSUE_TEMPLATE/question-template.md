@@ -9,8 +9,6 @@ assignees: ''
 
 Please read this before posting.
 
-A nicely rendered version of this template can be found here https://github.com/BME1478H/Winter2020class/blob/master/.github/ISSUE_TEMPLATE/question-template.md
-
 We ask you to include certain information when you ask a question.
 The reason for this is that we want to be able to help as many students as possible to solve their issues.
 If you just include a screenshot and title your question "Help",
@@ -26,6 +24,8 @@ You can find an abbreviated structure for each question in the summary section b
 and more details on how to ask good questions in the following section.
 If anything is unclear,
 don't hesitate to reach out to us either here or via the TA email.
+
+A nicely rendered version of this template can be found here https://github.com/BME1478H/Winter2020class/blob/master/.github/ISSUE_TEMPLATE/question-template.md
 
 # Summary
 
