@@ -9,6 +9,8 @@ assignees: ''
 
 Please read this before posting.
 
+A nicely rendered version of this template can be found here https://github.com/BME1478H/Winter2020class/blob/master/.github/ISSUE_TEMPLATE/question-template.md
+
 We ask you to include certain information when you ask a question.
 The reason for this is that we want to be able to help as many students as possible to solve their issues.
 If you just include a screenshot and title your question "Help",
@@ -29,16 +31,16 @@ don't hesitate to reach out to us either here or via the TA email.
 
 1. Create a descriptive title so it is clear what you are asking.
 2. Paste any code your are executing as text.
-    - If your code includes a functions or classes, also include their definitions.
-    - Use markdown code blocks for proper indentation and syntax highlighting:
-
-        ````
+    - If your code includes functions or classes, also include their definitions.
+    - Use markdown code blocks for proper indentation and syntax highlighting
+      by adding a line with three backticks before and after your code like this
+      (if you are viewing the rendered version, you can see that this has been formatted as a code block):
+    
         ```python
-        # Include your code inside tripple backticks like this
+        # Include your code here
         for i in range(3):
             print(i)
         ```
-        ````
 
 3. Describe what you don't understand or what went wrong,
    including any error message and traceback message.
