@@ -7,11 +7,51 @@ assignees: ''
 
 ---
 
+Please read this before posting.
+
+We ask you to include certain information when you ask a question.
+The reason for this is that we want to be able to help as many students as possible to solve their issues.
+If you just include a screenshot and title your question "Help",
+we have to spend time trying to figure out what you actually want help with instead of helping,
+and we can't copy your code to troubleshoot it on our machines.
+This takes time away not only from yourself,
+but also from your classmates,
+and if many students do this we will have to leave some questions unanswered.
+
+Troubleshooting code can be tedious and sometimes even frustrating,
+so we have designed this issue template to streamline the support you receive.
+You can find an abbreviated structure for each question in the summary section below
+and more details on how to ask good questions in the following section.
+If anything is unclear,
+don't hesitate to reach out to us either here or via the TA email.
+
+# Summary
+
+1. Create a descriptive title so it is clear what you are asking.
+2. Paste any code your are executing as text.
+    - If your code includes a functions or classes, also include their definitions.
+    - Use markdown code blocks for proper indentation and syntax highlighting:
+
+        ````
+        ```python
+        # Include your code inside tripple backticks like this
+        for i in range(3):
+            print(i)
+        ```
+        ````
+
+3. Describe what you don't understand or what went wrong,
+   including any error message and traceback message.
+
+---
+
+# Details
+
 Click the "Preview" tab above to view the rendered version of this issue template.
 
-**Delete this text after you have read through it and are replace it with your question.
+Delete this text after you have read through it and are replace it with your question.
 This template will appear every time you open a new issue,
-so you don't need to memorize it.**
+so you don't need to memorize it.
 
 In this class,
 we're using GitHub issues as the forum for asking and responding to questions.
@@ -67,9 +107,9 @@ remember that this GitHub issue list is public,
 so if you have a sensitive question,
 please send an email to the TA email address instead.
 
-**Delete this text after you have read through it and are replace it with your question.
+Remebmer to delete this text after you have read through it and are replace it with your question.
 This template will appear every time you open a new issue,
-so you don't need to memorize it.**
+so you don't need to memorize it.
 
 [this link]: https://guides.github.com/features/mastering-markdown/
 [this StackOverflow post]: https://stackoverflow.com/help/how-to-ask
