@@ -9,11 +9,13 @@ assignees: ''
 
 Please read this before posting.
 
-We ask you to include certain information when you ask a question.
+We ask you to include certain information when you ask a question
+and to search already existing similar questions and try their solutions before posting.
 The reason for this is that we want to be able to help as many students as possible to solve their issues.
 If you just include a screenshot and title your question "Help",
 we have to spend time trying to figure out what you actually want help with instead of helping,
-and we can't copy your code to troubleshoot it on our machines.
+we can't copy your code to troubleshoot it on our machines,
+and other students with related issues can't find your question since text in the screenshots is not searchable.
 This takes time away not only from yourself,
 but also from your classmates,
 and if many students do this we will have to leave some questions unanswered.
@@ -85,6 +87,7 @@ and the included information will ensure that you get help as quickly as possibl
    as described in this guide on how to create a [Minimal Reproducible Example].
       - Text is preferred over a screenshot since it is easy to copy and paste,
         which facilitates reproducing your problem.
+        If a screenshot is needed we will ask for it specifically.
       - Inline code should be surrounded by backticks for clarity,
         which will be `formatted like this` on GitHub.
         Longer blocks of code with multiple lines should be surrounded by triple backticks.
