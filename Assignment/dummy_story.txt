@@ -1,3 +1,9 @@
 Once upon a time, in a far away kingdom there lived a rich man, who had three sons:
 Simeon (a soldier), Tarras (a fat man), and Ivan (a fool).
-**add a sentence here** 
+One day, the rich man suddenly died and the son gathered together to decide the situation.
+The fool said "I shall have all the money of my father"
+The fat man said: "I shall have all the properties of my father"
+The soldier said: "It doesn't matter who wants what, the king has already taken posseion of everything:.
+From that day on, the three sons started a plan to get their riches back.
+#test
+
