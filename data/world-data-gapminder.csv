@@ -1,4 +1,4 @@
-country,year,population,region,sub_region,income_group,life_expectancy,income,children_per_woman,child_mortality,pop_density,co2_emissions,years_in_school_men,years_in_school_women
+country,year,population,region,sub_region,income_group,life_expectancy,income,children_per_woman,child_mortality,pop_density,co2_per_capita,years_in_school_men,years_in_school_women
 Afghanistan,1800,3280000,Asia,Southern Asia,Low,28.2,603,7.0,469.0,,,,
 Afghanistan,1801,3280000,Asia,Southern Asia,Low,28.2,603,7.0,469.0,,,,
 Afghanistan,1802,3280000,Asia,Southern Asia,Low,28.2,603,7.0,469.0,,,,
