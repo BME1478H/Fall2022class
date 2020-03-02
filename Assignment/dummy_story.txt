@@ -1,3 +1,6 @@
 Once upon a time, in a far away kingdom there lived a rich man, who had three sons:
 Simeon (a soldier), Tarras (a fat man), and Ivan (a fool).
-**add a sentence here** 
+<<<<<<< HEAD
+Simeon, Tarras and Ivan loved each other.
+
+>>>>>>> beef5ef70403590c6a02ac3a942e249255394db0
