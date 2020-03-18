@@ -1,0 +1,13 @@
+country,year,population,region,income_group,life_expectancy,co2_per_capita
+Samoa,2011,188000.0,Oceania.Polynesia,Upper middle,71.5,1.07
+samoa,2012,189000.0,Oceania.Polynesia,Upper middle,no value,
+Sammoa,2013,191000.0,Oceania.Polynesia,Upper middle,71.6,
+Samoa,2014,,Oceania.Polynesia,Upper middle,missing,1.03
+Samia,2015,194000.0,Oceania.Polynesia,Upper middle,71.7,
+Samoa,2016,195000.0,Oceania.Polynesia,Upper middle,72.0,
+Tonga,2011,105000.0,Oceania.Polynesia,Upper middle,70.0,0.982
+Tonga,2012,,Oceania.Polynesia,Upper middle,70.0,1.01
+Tonga,2013,105000.0,Oceania.Polynesia,Upper middle,70.1,1.08
+Tonnga,2014,106000.0,Oceania.Polynesia,Upper middle,70.2,1.14
+Tonga,2015,106000.0,Oceania.Polynesia,Upper middle,not given,
+Tonga,2016,107000.0,Oceania.Polynesia,Upper middle,70.4,
