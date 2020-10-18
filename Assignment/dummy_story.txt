@@ -1,3 +1,8 @@
 Once upon a time, in a far away kingdom there lived a rich man, who had three sons:
 Simeon (a soldier), Tarras (a fat man), and Ivan (a fool).
 **add a sentence here** 
+
+As Simeon was the only son who knew how to use a sword, he was taught by his father how to use one. He had a shield, a longsword, and a bow. He was very skilled and grew up to be a soldier. Tarras was the second son, fat and lazy. His father gave him a short sword and taught him how to fight so he could protect himself. He was useless in battle and couldn't fight at all. He couldn't even ride a horse. He was fat and lazy his whole life. Lastly there's you, Ivan. You are the only son in the world without a sword, shield, or horse. Your father taught you how to fight with fists, and you're good at it! You'll become a great warrior some day.
+
+
+hello world
