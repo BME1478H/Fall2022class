@@ -1,4 +1,4 @@
-# Winter2022class
+# Winter 2022 class
 
 In this repo,
 you can [open new issues](https://github.com/BME1478H/Winter2020class/issues) to ask questions
