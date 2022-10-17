@@ -2,3 +2,6 @@ Once upon a time, in a far away kingdom there lived a rich man, who had three so
 Simeon (a soldier), Tarras (a fat man), and Ivan (a fool).
 **add a sentence here** 
 new line is this
+new line is this
+new line is this
+add this line to text
